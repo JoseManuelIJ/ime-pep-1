@@ -1,3 +1,0 @@
-https://www.cienciadedatos.net/documentos/12_t-test
-https://www.cienciadedatos.net/documentos/15_inferencia_para_proporciones
-https://www.cienciadedatos.net/documentos/22.2_test_exacto_de_fisher_chi-cuadrado_de_pearson_mcnemar_qcochran
